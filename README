@@ -1,0 +1,8 @@
+playground project!
+trying to implement
+http://blog.fedecarg.com/2009/09/20/adding-theme-support-to-your-zend-framework-application/
+in response to
+http://www.zendcasts.com/forum/post/1029/#1029
+
+recommended changes:
+place themes/[themename]/templates outside of the public directory
